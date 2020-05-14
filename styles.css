@@ -1,0 +1,29 @@
+body {
+	background: gray;
+	color: black;
+	text-align: center;
+	font-family: georgia, verdana, lucida console;
+	font-size: 17px;
+}
+
+h1 {
+	color: black;
+	text-decoration: underline;
+	font-size: 2em;
+}
+
+h2 {
+	text-decoration: line-through;
+	font-size: 1.5em;
+	color: blue;
+}
+
+.listallani_on {
+	color: rgb(0, 255, 255);
+	font-weight: bold;
+}
+
+#lopputeksti {
+	color: #66ccff;
+	font-style: italic;
+}
